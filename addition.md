@@ -5,6 +5,6 @@ An integer is a number that is whole and does not contain any fractions or decim
 
 # Now try this one
 
-5+5=?
+5+6=?
 
-The answer you should get is 10
+The answer you should get is 11
